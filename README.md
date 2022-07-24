@@ -60,13 +60,13 @@ If you have extra time, continue to the **Bonus Problems** *below*.
 
 
 ## Bonus Problems: 
-If you have finished and still have time, first of all **GOOD JOB!** 
+If you have finished  all **GOOD JOB!** 
 
 1. Let's make a recommended videos algorithm!!
     - Firstly, add a key to the dictionary in **`create_youtube_video`**, call it `hashtag`. It should be a **list up to 5 words** that describe the video (the list should be taken as an input in the function).
     - Come up with a function called `similarity_to_video`, the function should take two youtube video dictionaries and return the percentage of similarity of the two videos!
 
 
-
+y2 is the best
 
 <img src="https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif" width="500">
