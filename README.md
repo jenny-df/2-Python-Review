@@ -3,7 +3,7 @@
 ## Objective: 
 In this lab, you will practice the previous topics we have learned before during the yearlong!  
 Refreshing your memories and reviewing specifically: Python basics, Lists, Dictionaries & Functions.
-
+blah blah blah blah
 
 [![](https://camo.githubusercontent.com/131c25bd172508d5f376dd7fe56283ae7fda2194/68747470733a2f2f63646e302e746e7763646e2e636f6d2f77702d636f6e74656e742f626c6f67732e6469722f312f66696c65732f323031372f30392f625563767252632d312d373936783339382e6a7067)]()
 
